@@ -10,10 +10,10 @@ where $X$ is a affine volterra type Ornstein-Uhlenbeck process with mean reversi
 
 For now only the fractional kernel is implemented.
 
-There are main files for estimation in the direct simulation, study of moment error with an approximate simulation of the VIX and tests.
+There are main files for estimation in the direct simulation and study of moment error with an approximate simulation of the VIX. Some initial running tests are in `/tests`.
 
 ## Setup and requirements
-Doing the following should make the code run smoothly.
+Doing the following should make the code run smoothly on Linux.
 `$PATH$` is the directory that RoughVolatility is in. 
 
 ```
