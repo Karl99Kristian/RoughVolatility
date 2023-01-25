@@ -2,7 +2,7 @@
 Implementation of generalized Bergomi model with regime switching market price of volatility risk
 
 
-This code models the forward variance process given by
+This code models the forward variance process where variance is given by
 $$V_u = \mathbb{E}\left[V_u\mid\mathcal{F}_t\right]\mathcal{E}\left(\eta(K*\eta dW)(u)\right),$$
 under a regime swiching market price of volatility risk given by
 $$\lambda_s=\theta(\mu_s-X_s)$$
